@@ -1,8 +1,8 @@
 [
 
 	{
-		"caption": "MarkdownLivePreview: Open Preview",
-		"command": "open_markdown_preview"
+		"caption": "MarkdownLivePreview: Toggle Preview",
+		"command": "toggle_markdown_preview"
 	},
 	{
 		"caption": "MarkdownLivePreview: Open Settings",
